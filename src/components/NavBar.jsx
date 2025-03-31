@@ -11,7 +11,7 @@ const Navbar = (props) => {
       </div>
       <div>
         {home ? (
-          <Link to="/" className="bg-blue-500 text-white py-2 px-4 font-semibold shadow-lg rounded text-nowrap mt-4">
+          <Link to="/" className="bg-emerald-600 text-white py-2 px-4 font-semibold shadow-lg rounded text-nowrap mt-4">
             Back to Products
           </Link>
         ) : (
